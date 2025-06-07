@@ -1,4 +1,8 @@
-Ce projet applique des méthodes d'apprentissage non supervisé à l'analyse de données électorales et socio-économiques du département de l'Aude durant la décennie 1960-1970. Il s'appuie sur les données issues de l'ouvrage "Une histoire du conflit politique. Élections et inégalités sociales en France, 1789-2022" de Julia Cagé et Thomas Piketty.
+Ce projet consiste à appliquer les méthodes d'apprentissage non supervisé en s'appuyant sur les données issues de l'ouvrage "Une histoire du conflit politique. Élections et inégalités sociales en France, 1789-2022" de Julia Cagé et Thomas Piketty.
+
+La problèmatique n'est pas imposéee.
+
+Nous proposons une analyse des évolutions électorales et socio-économiques du département de l'Aude durant la décennie 1960-1970. I
 
 Le contexte analysé est marqué par un afflux important de rapatriés d’Algérie dans la région, offrant l'opportunité d'étudier l'impact de cet événement démographique sur la sociologie locale et les résultats politiques.
 
