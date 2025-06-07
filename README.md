@@ -1,8 +1,6 @@
-Analyse Non Supervisée des Résultats Électoraux et Variables Socio-Économiques dans l'Aude (1960-1970)
-Description du projet
 Ce projet applique des méthodes d'apprentissage non supervisé à l'analyse de données électorales et socio-économiques du département de l'Aude durant la décennie 1960-1970. Il s'appuie sur les données issues de l'ouvrage "Une histoire du conflit politique. Élections et inégalités sociales en France, 1789-2022" de Julia Cagé et Thomas Piketty.
 
-Le contexte analysé est marqué par un afflux important de rapatriés d’Algérie dans la région, offrant une opportunité unique d'étudier l'impact de cet événement démographique sur la sociologie locale et les résultats politiques.
+Le contexte analysé est marqué par un afflux important de rapatriés d’Algérie dans la région, offrant l'opportunité d'étudier l'impact de cet événement démographique sur la sociologie locale et les résultats politiques.
 
 Objectifs
 Étudier l’évolution des résultats électoraux sur la période 1958-1968 ;
