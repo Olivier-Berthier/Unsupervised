@@ -16,8 +16,8 @@ Méthodologie
 
 Le projet mobilise plusieurs techniques et algorithmes d’apprentissage non supervisé, dont :
 Détection de ruptures dans les tendances de vote par segments politiques ;
-ACP (Analyse en Composantes Principales) pour explorer les structures sous-jacentes dans les résultats électoraux et les variables socio-économiques, avant et après l’arrivée des rapatriés ;
-UMAP pour la réduction de dimensionnalité et la visualisation des structures de données complexes ;
-Clustering (Gaussian Mixture Models) pour identifier des groupes de communes présentant des profils similaires.
-Cartes géographiques : les clusters de communes identifiés sont projetés sur la carte du département afin de mettre en évidence la cohérence spatiale et les éventuelles fractures territoriales.
+ACP (Analyse en Composantes Principales) pour explorer les structures sous-jacentes dans les résultats électoraux et les variables socio-économiques, avant et après l’arrivée des rapatriés ;  
+UMAP pour la réduction de dimensionnalité et la visualisation des structures de données complexes ;  
+Clustering (Gaussian Mixture Models) pour identifier des groupes de communes présentant des profils similaires.  
+Cartes géographiques : les clusters de communes identifiés sont projetés sur la carte du département afin de mettre en évidence la cohérence spatiale et les éventuelles fractures territoriales.  
 Graphes de proximité : des liens sont visualisés entre les communes proches au sein d’un même cluster, en tenant compte de leurs profils socio-économiques mesurés à partir des coordonnées UMAP. Ces graphes permettent de visualiser la structuration du territoire et de détecter des réseaux de proximité ou d’isolement.
