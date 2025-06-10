@@ -7,10 +7,13 @@ Nous proposons une analyse des évolutions électorales et socio-économiques du
 Le contexte analysé est marqué par un afflux important de rapatriés d’Algérie dans la région, offrant l'opportunité d'étudier l'impact de cet événement démographique sur la sociologie locale et les résultats politiques.
 
 Objectifs
+
 Étudier l’évolution des résultats électoraux sur la période 1958-1968 ;
 Analyser la dynamique des variables socio-économiques associées aux mutations démographiques ;
 Mettre en lumière l’impact de l’arrivée des rapatriés sur la structure sociale et politique du territoire.
+
 Méthodologie
+
 Le projet mobilise plusieurs techniques et algorithmes d’apprentissage non supervisé, dont :
 Détection de ruptures dans les tendances de vote par segments politiques ;
 ACP (Analyse en Composantes Principales) pour explorer les structures sous-jacentes dans les résultats électoraux et les variables socio-économiques, avant et après l’arrivée des rapatriés ;
