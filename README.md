@@ -2,7 +2,7 @@ Ce projet consiste à appliquer les méthodes d'apprentissage non supervisé en 
 
 La problèmatique n'est pas imposéee.
 
-Nous proposons une analyse des évolutions électorales et socio-économiques du département de l'Aude durant la décennie 1960-1970. I
+Nous proposons une analyse des évolutions électorales et socio-économiques du département de l'Aude durant la décennie 1960-1970. 
 
 Le contexte analysé est marqué par un afflux important de rapatriés d’Algérie dans la région, offrant l'opportunité d'étudier l'impact de cet événement démographique sur la sociologie locale et les résultats politiques.
 
